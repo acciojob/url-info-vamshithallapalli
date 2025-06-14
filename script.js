@@ -3,4 +3,4 @@ const currURl = location.href;
 
 const urlLen = currURl.length;
 
-alert(`The length of the URl is: ${urlLen}`)
+alert(`The length of the URL is: ${urlLen}`)
